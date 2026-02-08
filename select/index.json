@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Chinozo  'シェーマ' feat. FloweR",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-02-08T02:15:27.896078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chinozo 'エリート' feat.KafU",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/01_Chinozo_'エリート'_feat.KafU_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー feat. Chinozo",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/02_ドキメキダイアリー_feat._Chinozo_asmi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chinozo  「TAMAYA」 feat.FloweR",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/03_Chinozo_「TAMAYA」_feat.FloweR_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chinozo  「ショットガン・ナウル」 feat.FloweR",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/04_Chinozo_「ショットガン・ナウル」_feat.FloweR_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chinozo 'HERO' feat.FloweR",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/05_Chinozo_'HERO'_feat.FloweR_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chinozo 'チーズ' feat.KafU",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/06_Chinozo_'チーズ'_feat.KafU_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chinozo 'メテオラ' feat.FloweR,KafU",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/07_Chinozo_'メテオラ'_feat.FloweR,KafU_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chinozo 'ミィハー' feat.Tet0",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/08_Chinozo_'ミィハー'_feat.Tet0_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chinozo 'エリート' feat.KafU",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/09_Chinozo_'エリート'_feat.KafU_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chinozo 'タクシィ' feat.KafU",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/10_Chinozo_'タクシィ'_feat.KafU_Chinozo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chinozo 'Flyer!' feat.FloweR",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/11_Chinozo_'Flyer!'_feat.FloweR_Chinozo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー (feat. Chinozo)",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/12_ドキメキダイアリー_(feat._Chinozo)_asmi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー - asmi feat. Chinozo (Official Music Video)",
+      "artist": "asmi Official Channel",
+      "has_synced": true,
+      "path": "select/13_ドキメキダイアリー_-_asmi_feat._Chinozo_(Official_Music_Video)_asmi_Official_Channel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー (Anime Size) feat. Chinozo",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/14_ドキメキダイアリー_(Anime_Size)_feat._Chinozo_asmi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー - Dokimeki Diary (feat. Chinozo)",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/15_ドキメキダイアリー_-_Dokimeki_Diary_(feat._Chinozo)_asmi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シェーマ",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_シェーマ_Chinozo.txt"
+    }
+  ]
+}
